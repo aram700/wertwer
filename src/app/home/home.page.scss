@@ -1,0 +1,68 @@
+body{
+    background-color:black;
+}
+
+div {
+    width:100px;
+    height:100px;
+    background-color: rgb(255, 100, 100);
+    border-radius: 10px;
+    border:10px solid rgb(255, 75, 75);
+    -webkit-transition-duration: 0.2s;
+    transition-duration: 0.2s;
+}
+
+div:active{
+    background-color: rgb(100, 255, 100);
+    border:10px solid rgb(75, 255, 75);
+}
+
+
+#pad1{
+    margin-left:100px;
+    margin-top:100px;
+}
+#pad2{
+    margin-left:220px;
+    margin-top:-100px;
+}
+#pad3{
+    margin-left:340px;
+    margin-top:-100px;
+}
+#pad4{
+    margin-left:100px;
+    margin-top:20px;
+}
+#pad5{
+    margin-left:220px;
+    margin-top:-100px;
+}
+#pad6{
+    margin-left:340px;
+    margin-top:-100px;
+}
+#pad7{
+    margin-left:100px;
+    margin-top:20px;
+}
+#pad8{
+    margin-left:220px;
+    margin-top:-100px;
+}
+#pad9{
+    margin-left:340px;
+    margin-top:-100px;
+}
+#pad10{
+    margin-left:100px;
+    margin-top:20px;
+}
+#pad11{
+    margin-left:220px;
+    margin-top:-100px;
+}
+#pad12{
+    margin-left:340px;
+    margin-top:-100px;
+}
